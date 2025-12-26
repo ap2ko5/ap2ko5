@@ -119,8 +119,8 @@ A comprehensive portfolio showcasing all projects, skills, and experience. Inclu
 ## 📫 Let's Connect!
 
 - 💼 **Portfolio:** [View My Portfolio](https://github.com/ap2ko5/Portfolio-Website)
-- 📧 **Email:** [Contact Me](mailto:your-email@example.com)
-- 🔗 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/your-profile)
+- 📧 **Email:** [Contact Me](mailto:abelap2005@gmail.com)
+- 🔗 **LinkedIn:** [Connect on LinkedIn](https://linkedin.com/in/abel-a-panicker-a92228217)
 - 🐙 **GitHub:** [@ap2ko5](https://github.com/ap2ko5)
 
 ---
